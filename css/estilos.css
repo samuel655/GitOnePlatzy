@@ -31,3 +31,14 @@ body{
 #container h1 {
     font-size: 20px;
 }
+
+#footer {
+    width: 70%;
+    margin: 0 auto;
+    text-align: center;
+    background-color: #33a;
+    color: #ddd;
+    padding: .5em;
+    border-radius: 50px 50px 50px 50px;
+    box-shadow: 0px 5px 30px 0px rgba(0, 0, 0, 0.75);
+}
